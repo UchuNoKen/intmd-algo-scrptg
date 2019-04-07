@@ -8,6 +8,8 @@
  *
  */
 
+// Return the elements from two arrays that are not contained in the other
+
 // Function starter code
 function diffArray(arr1, arr2) {
   var newArr = [];
